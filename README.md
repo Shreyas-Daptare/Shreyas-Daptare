@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-daptare&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-daptare" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Dev_Shreyas_" target="blank"><img src="https://img.shields.io/twitter/follow/Dev_Shreyas_logo=twitter&style=for-the-badge" alt="Dev_Shreyas__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dev_shreyas_" target="blank"><img src="https://img.shields.io/twitter/follow/dev_shreyas_?logo=twitter&style=for-the-badge" alt="dev_shreyas_" /></a> </p>
 
 - 🌱 I’m currently learning **Network Penetration**
 
