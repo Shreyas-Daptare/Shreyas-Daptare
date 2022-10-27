@@ -1,11 +1,11 @@
 [![MasterHead](https://i.pinimg.com/originals/90/ca/e0/90cae0cf9b6cded6456a336101de9fd8.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <h1 align="center">Hi 👋, I'm Shreyas Daptare</h1>
 <h3 align="center">A passionate developer :computer: from India</h3>
-<img align="right" alt="Coding" width="500" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-daptare&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-daptare" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dev_shreyas_" target="blank"><img src="https://img.shields.io/twitter/follow/dev_shreyas_?logo=twitter&style=for-the-badge" alt="dev_shreyas_" /></a> </p>
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
 
 - 🌱 I’m currently learning **Network Penetration**
 
