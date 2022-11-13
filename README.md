@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C,C++,Python**
 
-- 📫 How to reach me **zincofficial.111@gmail.com**
+- 📫 How to reach me **https://twitter.com/dev_shreyas_**
 
 - ⚡ Fun fact **It is what it is.**
 
