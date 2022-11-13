@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C,C++,Python**
 
-- 📫 How to reach me **[https://twitter.com/dev_shreyas_](https://twitter.com/Dev_Shreyas_)**
+- 📫 How to reach me **quadaltigo.5@gmail.com**
 
 - ⚡ Fun fact **It is what it is.**
 
