@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas-daptare&show_icons=true&locale=en" alt="shreyas-daptare" /></p>
 <!-- TryHackMe profile badge -->
-[TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ZINCop.png)](https://tryhackme.com/p/ZINCop)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ZINCop.png)](https://tryhackme.com/p/ZINCop)
