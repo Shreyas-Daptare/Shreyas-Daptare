@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Nexus - AI Charting Platform**  
+🔭 &nbsp;I'm currently working on **<a href="https://nexuschart.me/" target="_blank" rel="noopener noreferrer">Nexus</a> - AI Charting Platform**  
 👯 &nbsp;I'm looking to collaborate on **open-source projects**  
 💬 &nbsp;Ask me about **Python, AI, Algorithmic Systems, Websockets and APIs**
 
