@@ -9,7 +9,7 @@
 </p>
 
 ### 🚀 About Me
-🔭 I'm currently working on [**OrderCraft - AI Charting Platform**](https://github.com/ordercraft-hq/terminal)<br/>
+🔭 I'm currently working on [**OrderCraft**](https://github.com/ordercraft-hq/terminal)<br/>
 👯 I'm looking to collaborate on **open-source projects**<br/>
 💬 Ask me about **Python, AI, Algorithmic Systems, Websockets and APIs**
 
